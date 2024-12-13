@@ -9,57 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CrudNet8MVC
 build_property.RootNamespace = CrudNet8MVC
-build_property.ProjectDir = C:\Users\adanc\Documents\Visual Studio 2022\ProyectoCrudNet8MVC\CrudNet8MVC\
+build_property.ProjectDir = D:\github\elpServiciosCrud\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\adanc\Documents\Visual Studio 2022\ProyectoCrudNet8MVC\CrudNet8MVC
+build_property.MSBuildProjectDirectory = D:\github\elpServiciosCrud
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Inicio/Borrar.cshtml]
+[D:/github/elpServiciosCrud/Views/Inicio/Borrar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEJvcnJhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Inicio/Crear.cshtml]
+[D:/github/elpServiciosCrud/Views/Inicio/Crear.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXENyZWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Inicio/Detalle.cshtml]
+[D:/github/elpServiciosCrud/Views/Inicio/Detalle.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXERldGFsbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Inicio/Editar.cshtml]
+[D:/github/elpServiciosCrud/Views/Inicio/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Inicio/Index.cshtml]
+[D:/github/elpServiciosCrud/Views/Inicio/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Inicio/Privacy.cshtml]
+[D:/github/elpServiciosCrud/Views/Inicio/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXFByaXZhY3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Shared/Error.cshtml]
+[D:/github/elpServiciosCrud/Views/persona/Borrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uYVxCb3JyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/github/elpServiciosCrud/Views/persona/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uYVxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/github/elpServiciosCrud/Views/persona/Detalle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uYVxEZXRhbGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/github/elpServiciosCrud/Views/persona/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uYVxFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/github/elpServiciosCrud/Views/persona/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccGVyc29uYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/github/elpServiciosCrud/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/github/elpServiciosCrud/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/_ViewImports.cshtml]
+[D:/github/elpServiciosCrud/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/_ViewStart.cshtml]
+[D:/github/elpServiciosCrud/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/adanc/Documents/Visual Studio 2022/ProyectoCrudNet8MVC/CrudNet8MVC/Views/Shared/_Layout.cshtml]
+[D:/github/elpServiciosCrud/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-l5wtdh9ndw
